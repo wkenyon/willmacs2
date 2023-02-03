@@ -1,0 +1,46 @@
+2022-09-12  Stefan Kangas  <stefankangas@gmail.com>
+
+	* Version 28.2 released.
+
+2022-09-07  Stefan Kangas  <stefankangas@gmail.com>
+
+	Bump Emacs version to 28.2
+
+	* README:
+	* configure.ac:
+	* msdos/sed2v2.inp:
+	* nt/README.W32: Bump Emacs version to 28.2.
+
+2022-09-07  Stefan Kangas  <stefankangas@gmail.com>
+
+	Update ChangeLog and AUTHORS for Emacs 28.2
+
+	* ChangeLog.3:
+	* etc/AUTHORS:
+	* etc/NEWS: Update for Emacs 28.2.
+
+This file records repository revisions from
+commit ddabb03a0176beb4b7fc8d4f2267d459fd2ebded (exclusive) to
+commit 9acb278af5823dcff7fb63a37399232ffa849192 (inclusive).
+See ChangeLog.3 for earlier changes.
+
+;; Local Variables:
+;; coding: utf-8
+;; End:
+
+  Copyright (C) 2022 Free Software Foundation, Inc.
+
+  This file is part of GNU Emacs.
+
+  GNU Emacs is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+
+  GNU Emacs is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with GNU Emacs.  If not, see <https://www.gnu.org/licenses/>.
